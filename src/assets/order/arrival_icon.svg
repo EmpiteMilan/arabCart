@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22" height="22" viewBox="0 0 22 22">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Shape" d="M0,11A11,11,0,1,1,11,22,11,11,0,0,1,0,11Z"/>
+    </clipPath>
+  </defs>
+  <g id="Group_2466" data-name="Group 2466" transform="translate(-28 -44)">
+    <g id="Icon_Clock" data-name="Icon/Clock" transform="translate(28 44)">
+      <rect id="Base" width="22" height="22" fill="none"/>
+      <g id="Group_10" data-name="Group 10">
+        <g id="Mask_Group_10" data-name="Mask Group 10" clip-path="url(#clip-path)">
+          <g id="Color_02" data-name="Color/02">
+            <rect id="Color" width="22" height="22" fill="#e2b817"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Icon" transform="translate(31 47)">
+      <rect id="Base-2" data-name="Base" width="17" height="17" transform="translate(0)" fill="none"/>
+      <g id="Group_32" data-name="Group 32" transform="translate(0.408 2.859)">
+        <path id="moped" d="M14.927,12.6a.76.76,0,1,1-.76.76.763.763,0,0,1,.76-.76m0-1.521a2.281,2.281,0,1,0,2.281,2.281,2.278,2.278,0,0,0-2.281-2.281M8.083,5.76h-3.8V7.281h3.8V5.76M13.406,5H11.125V6.521h2.281V8.536l-2.661,3.308H8.083v-3.8H5.042A3.041,3.041,0,0,0,2,11.083v2.281H3.521a2.281,2.281,0,1,0,4.562,0h3.422l3.422-4.3V6.521A1.52,1.52,0,0,0,13.406,5M5.8,14.125a.763.763,0,0,1-.76-.76H6.562A.763.763,0,0,1,5.8,14.125Z" transform="translate(-2 -5)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

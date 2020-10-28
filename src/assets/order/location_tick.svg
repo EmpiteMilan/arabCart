@@ -1,0 +1,16 @@
+<svg id="Icon_Check" data-name="Icon/Check" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14" height="14" viewBox="0 0 14 14">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Shape" d="M13.611,1.1,4.278,10.43,0,6.152l1.1-1.1L4.278,8.229,12.514,0Z" fill="#5ed1ad"/>
+    </clipPath>
+  </defs>
+  <rect id="Base" width="14" height="14" fill="none"/>
+  <g id="Group_44" data-name="Group 44" transform="translate(0.389 2.014)">
+    <path id="Shape-2" data-name="Shape" d="M13.611,1.1,4.278,10.43,0,6.152l1.1-1.1L4.278,8.229,12.514,0Z" fill="#5ed1ad"/>
+    <g id="Mask_Group_44" data-name="Mask Group 44" clip-path="url(#clip-path)">
+      <g id="Color_02" data-name="Color/02" transform="translate(-0.389 -2.014)">
+        <rect id="Color" width="14" height="14" fill="#5ed1ad"/>
+      </g>
+    </g>
+  </g>
+</svg>

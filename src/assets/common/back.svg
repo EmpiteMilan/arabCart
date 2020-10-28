@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
+<defs><clipPath id="a"><rect width="38" height="38" rx="12" fill="none"/></clipPath><clipPath id="b">
+<path d="M1.41,0,6,4.59,10.59,0,12,1.42l-6,6-6-6Z" transform="translate(3 5.58)"/>
+</clipPath></defs><rect width="38" height="38" rx="12" fill="none"/><g clip-path="url(#a)"><rect width="38" height="38" fill="#2d2d2d"/></g>
+<g transform="translate(28 10) rotate(90)"><rect width="18" height="18" fill="none"/><path d="M1.41,0,6,4.59,10.59,0,12,1.42l-6,6-6-6Z" transform="translate(3 5.58)"/>
+<g clip-path="url(#b)"><rect width="18" height="18" fill="#fff"/></g></g></svg>

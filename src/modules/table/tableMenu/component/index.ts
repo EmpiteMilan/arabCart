@@ -1,0 +1,1 @@
+export {TableHeaderImage} from './tableHeader/tableHeader.component';
